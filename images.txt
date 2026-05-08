@@ -4,6 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-hub.docker.com/r/pytorch/pytorch:2.2.1-cuda12.1-cudnn8-runtime
+#pytorch:2.2.1-cuda12.1-cudnn8-runtime
 gcr.io/kaggle-gpu-images/python:latest
-hub.docker.com/r/pytorch/pytorch:2.4.0-cuda12.4-cudnn9-runtime
+#hub.docker.com/r/pytorch/pytorch:2.4.0-cuda12.4-cudnn9-runtime
